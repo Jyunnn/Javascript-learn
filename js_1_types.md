@@ -1,4 +1,4 @@
-#型別
+# 型別
 
 Javascript 有8種資料型別
 #### String
