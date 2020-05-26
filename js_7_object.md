@@ -1,4 +1,4 @@
-# Object
+# 物件 Object
 
 ```js {.line-numbers}
 let user = {
