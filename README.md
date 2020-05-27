@@ -2,9 +2,13 @@
 
 [第一章 型別](https://github.com/Jyunnn/Javascript-learn/blob/master/js_1_types.md)
 
+- 基礎型別介紹及轉換
+
 [第二章 變數](https://github.com/Jyunnn/Javascript-learn/blob/master/js_2_variables.md)
 
 [第三章 條件運算](https://github.com/Jyunnn/Javascript-learn/blob/master/js_3_if_else_and_or.md)
+
+- `if`條件和  `&&` `||` 介紹
 
 [第四章 Switch](https://github.com/Jyunnn/Javascript-learn/blob/master/js_4_switch.md)
 

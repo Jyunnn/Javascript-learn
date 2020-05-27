@@ -1,18 +1,19 @@
 # Switch
 
-`Switch` 可以替帶很多個 `if` 
+`Switch` 可以替帶很多個 `if`
+
 ```js {.line-numbers}
-// 用 if 
+// 用 if
 if ( i == 1 ){
     console.log("xs")
 } else if ( i == 2) {
-    console.log("s")    
+    console.log("s")
 } else if ( i == 3) {
-    console.log("m")    
+    console.log("m")
 } else if ( i == 4) {
-    console.log("l")    
+    console.log("l")
 } else {
-    console.log("xl")    
+    console.log("xl")
 }
 
 //用 switch
@@ -35,5 +36,5 @@ switch (i) {
 
 ```
 
-假如 `i = 3` , 則會顯示 `m` 
+假如 `i = 3` , 則會顯示 `m`
 但如果沒有 `break` , 就不會驗證之後的規則 , 顯示 `m,l,xl`
