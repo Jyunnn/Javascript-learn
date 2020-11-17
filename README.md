@@ -29,10 +29,15 @@
 [第十二章 原始型別](https://github.com/Jyunnn/Javascript-learn/blob/master/js_12_primitives_methods.md)
 
 [第十三章 Number](https://github.com/Jyunnn/Javascript-learn/blob/master/js_13_number.md)
+
 [第十四章 string](https://github.com/Jyunnn/Javascript-learn/blob/master/js_14_string.md)
+
 [第十五章 Array](https://github.com/Jyunnn/Javascript-learn/blob/master/js_15_array.md)
+
 [第十六章 Array_Methods](https://github.com/Jyunnn/Javascript-learn/blob/master/js_16_array_methods.md)
+
 [第十七章 iterable 迭代](https://github.com/Jyunnn/Javascript-learn/blob/master/js_17_iterable.md)
+
 [第十八章 ]()
 [第十九章 ]()
 [第二十章 ]()
